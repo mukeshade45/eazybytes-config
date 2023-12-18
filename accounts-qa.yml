@@ -1,1 +1,11 @@
+build:
+  version: "2.0"
 
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Rod Johnson- QA Lead"
+    email: "rod@gmail.com"
+  onCallSupport:
+    -(666)345-9876
+    -(666)678-2567
