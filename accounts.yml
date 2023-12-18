@@ -1,1 +1,11 @@
+build:
+  version: "3.0"
 
+accounts:
+  message: "Welcome to EazyBank accounts related APIs"
+  contactDetails:
+    name: "Mukesh Kumar Ade- Developer"
+    email: "mkade@gmail.com"
+  onCallSupport:
+    -(555)555-1234
+    -(555)546-1453
