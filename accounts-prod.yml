@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related Prod APIs"
   contactDetails:
     name: "Gavin King- Product Owner"
-    email: "gavin@gmail.com"
+    email: "{cipher}877b99f16df073bcda250831f54b248b7f41484aa69ec08438bef58ae0d9afb6"
   onCallSupport:
     -(777)271-8245
     -(777)815-7791
