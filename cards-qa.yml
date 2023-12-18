@@ -1,1 +1,11 @@
+build:
+  version: "2.0"
 
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "Hamid Qureshi- QA Lead"
+    email: "hamid@gmail.com"
+  onCallSupport:
+    -(444)345-9876
+    -(444)678-2567
