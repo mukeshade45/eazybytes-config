@@ -1,1 +1,11 @@
+build:
+  version: "3.0"
 
+cards:
+  message: "Welcome to EazyBank cards related APIs"
+  contactDetails:
+    name: "Shalu Patle- Developer"
+    email: "shalu@gmail.com"
+  onCallSupport:
+    -(222)555-7865
+    -(222)546-9821
