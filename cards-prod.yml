@@ -1,1 +1,11 @@
+build:
+  version: "1.0"
 
+cards:
+  message: "Welcome to EazyBank cards related Prod APIs"
+  contactDetails:
+    name: "Dennin Mike- Product Owner"
+    email: "dennin@gmail.com"
+  onCallSupport:
+    -(111)271-8233
+    -(111)815-7733
